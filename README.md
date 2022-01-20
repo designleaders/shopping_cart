@@ -1,6 +1,7 @@
 # shopping_cart
 
 A new Flutter project.
+Here you will find the badges , provider and shared preferences along with all the necessaries functionalist for the flutter projects
 
 ## Getting Started
 
